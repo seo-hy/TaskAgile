@@ -4,6 +4,6 @@
 
 https://github.com/packtpublishing/building-applications-with-spring-5-and-vue.js-2
 
-[MessagesApp]()
+[MessagesApp](https://github.com/seoh02h/TaskAgile/tree/MessagesApp)
 
 # TaskAgile
